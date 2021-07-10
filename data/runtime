@@ -1,3 +1,12 @@
+beta 1.7.3
+beta 1.8
+1.2.5
+1.4.7
+1.6.4
+1.7.10
+1.7.2
+1.8.9
+1.9.4
 1.10.2
 1.11
 1.12.2
@@ -8,39 +17,24 @@
 1.16-pre1
 1.16-pre2
 1.16-pre3
-1.4.7
-1.6.4
-1.7.10
-1.7.2
-1.8.9
-1.9.4
-beta 1.7.3
-beta 1.8
+1.16.5
+1.17
+Minecraft 2.0
 Bedrock Edition
-Bukkit
+Windows 10 Edition
+MCPE
+Java Edition
 C++ Minecraft
 Canary
 Cauldron
-Fabric
-Forge
-Java Minecraft
-Liteloader
-MCPE
-Minecraft 2.0
-Minecraft Windows 10 Edition
-ModLoader
 Neptune
-OpenModLoader
-Paper
 PaperModLoader
-Rift
 Spigot
-Sponge
 XLoader
 Fukkit
 Spunbric
 CrapFukkit
 Patchwork
-1.2.5
 Badlion
 Fabedrock
+%loader
