@@ -164,8 +164,8 @@ $mod:author abandons $mod, claiming there are better mods adding $mod:modfeature
 %person forks %loader due to excessive %badthing, naming the fork %newloader
 $mod:author rewrites $mod as a Bedrock Addon
 $mod:author rewrites all their mods as Bedrock Addons
-%person ran into an Internal Server Error. This causes $mod to crash.
-%person complains about Internal Server Errors, leading to drama.
+%person ran into an Internal Server Error. This causes %mod to crash
+%person complains about Internal Server Errors, leading to drama
 %loader causes Internal Server Errors, making %person create %newloader
-%person rewrites %mod in %language, causing Internal Server Errors.
+%person rewrites %mod in %language, causing Internal Server Errors
 %person dislikes Internal Server Errors, citing its %badthing
