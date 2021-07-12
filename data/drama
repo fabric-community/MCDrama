@@ -167,5 +167,5 @@ $mod:author rewrites all their mods as Bedrock Addons
 %person ran into an Internal Server Error. This causes $mod to crash.
 %person complains about Internal Server Errors, leading to drama.
 %loader causes Internal Server Errors, making %person create %newloader
-%person rewrites $mod in %language, causing Internal Server Errors.
+%person rewrites %mod in %language, causing Internal Server Errors.
 %person dislikes Internal Server Errors, citing its %badthing
